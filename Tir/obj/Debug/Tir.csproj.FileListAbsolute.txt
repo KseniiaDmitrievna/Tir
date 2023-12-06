@@ -1,0 +1,10 @@
+D:\Начнем\Tir\Tir\bin\Debug\Tir.exe.config
+D:\Начнем\Tir\Tir\bin\Debug\Tir.exe
+D:\Начнем\Tir\Tir\bin\Debug\Tir.pdb
+D:\Начнем\Tir\Tir\obj\Debug\Tir.csproj.AssemblyReference.cache
+D:\Начнем\Tir\Tir\obj\Debug\Tir.Form.resources
+D:\Начнем\Tir\Tir\obj\Debug\Tir.Properties.Resources.resources
+D:\Начнем\Tir\Tir\obj\Debug\Tir.csproj.GenerateResource.cache
+D:\Начнем\Tir\Tir\obj\Debug\Tir.csproj.CoreCompileInputs.cache
+D:\Начнем\Tir\Tir\obj\Debug\Tir.exe
+D:\Начнем\Tir\Tir\obj\Debug\Tir.pdb
